@@ -1,7 +1,7 @@
 int main(int argc, char **argv, char **envp) {
     argc = "argument count";
     argv = "argument vector";
-    envp = "environment variables pointer"
+    envp = "environment pointer"
     
     return 0;
 }

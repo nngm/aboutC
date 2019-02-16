@@ -1,0 +1,11 @@
+int main(int argc, char **argv, char **envp) {
+    argc = "argument count";
+    argv = "argument vector";
+    envp = "environment variables pointer"
+    
+    return 0;
+}
+
+/* 연산자 우선순위
+ * 괄호류, 구조체 → 단항연산자 → 승제mod → 비트 이동 → 대소비교 → ==, != → & → ^ → | → && → || → ?: → = → ,
+ */
